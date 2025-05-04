@@ -1,0 +1,3 @@
+C:/Ece/1ere annee/informatique/BADLAND/cmake-build-debug/CMakeFiles/BADLAND.dir
+C:/Ece/1ere annee/informatique/BADLAND/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Ece/1ere annee/informatique/BADLAND/cmake-build-debug/CMakeFiles/rebuild_cache.dir
